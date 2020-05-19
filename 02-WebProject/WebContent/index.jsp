@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h2>Welcome !!!</h2>
-	<h3>You have successfully created Jenkins-Pipeline</h3>
+	<h3>You have successfully created Jenkins-Pipeline...</h3>
 </body>
 </html>
